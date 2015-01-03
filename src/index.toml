@@ -1,0 +1,12 @@
+title = "This Blog Has No Title (yet)"
+recent = 5
+recentTitle = "最近的文章："
+categoryListTitle = "所有类别："
+
+[[categories]]
+name = "latin"
+title = "拉丁语"
+
+[[categories]]
+name = "about"
+title = "关于"
