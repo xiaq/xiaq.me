@@ -1,5 +1,9 @@
 title = "This Blog Has No Title (yet)"
-recent = 5
+indexPosts = 5
+feedPosts = 10
+rootURL = "http://xiaq.me"
+
+[l10n]
 recentTitle = "最近的文章："
 categoryListTitle = "所有类别："
 

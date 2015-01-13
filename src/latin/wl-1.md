@@ -1,8 +1,10 @@
+今天开始写 Wheelock's Latin (7th edition) 的学习笔记。本科的时候曾断断续续学到第七章，这次希望能够在一年内学完。
+
 ## 总结
 
 这一章引入拉丁语中动词的五个语法范畴——即人称(persōna)、数(numerus)、时态(tempus)、语气(modus)和语态(vōx)，以及第一二变位法动词在现在时态、陈述语气和主动语态下，关于人称(三种)和数(两种)的六种变位(coniugātiō)，以及在现在时态、祈使语气、主动语态下，关于数的两种变位。后者只有第二人称一种人称，可见语法范畴并不正交。
 
-第一变位法动词的词根为 -ā-，第二变位法为 -ē-。现在时态陈述语气主动语态下的六种变位如下(列出顺序为 1s/2s/3s/1p/2p/3p)：
+第一变位法动词的不定式形式为 -āre (词根 -ā)，第二变位法为 -ēre (词根 -ē)。现在时态陈述语气主动语态下的六种变位如下(列出顺序为 1s/2s/3s/1p/2p/3p)：
 
 laudāre: laudō / laudās /laudat / laudāmus / laudātis / laudant
 
@@ -99,5 +101,7 @@ Eng: Maecenas and Vergil are calling me today. How should I think? How should I 
 ## 拾遗
 
 *   前缀 cōn- 来自于 cum (Eng: with)。拉丁语中的 o 和 u 的互相转化似乎相当常见。
+
+*   videō 和德语的 wissen、英语的 wit 是[同源](https://en.wiktionary.org/wiki/video#Latin)的。
 
 <!-- vi: se tw=0 nolbr: -->
