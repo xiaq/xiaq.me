@@ -1,4 +1,5 @@
 title = "This Blog Has No Title (yet)"
+author = "xiaq"
 indexPosts = 5
 feedPosts = 10
 rootURL = "http://xiaq.me"
