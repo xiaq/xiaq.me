@@ -12,3 +12,8 @@ timestamp = "2015-01-07"
 name = "wl-3"
 title = "Wheelock's Latin Capvt III 笔记"
 timestamp = "2015-01-08"
+
+[[articles]]
+name = "wl-4"
+title = "Wheelock's Latin Capvt IV 笔记"
+timestamp = "2015-01-18"
