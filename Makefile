@@ -1,6 +1,6 @@
 MDS := $(wildcard src/*/*.md)
 HTMLS := $(MDS:.md=.html)
-ALL_HTMLS := $(wildcard src/*/*.html)
+GENERATED_HTMLS := $(wildcard src/*/*.html)
 
 default: gen
 
@@ -10,16 +10,14 @@ default: gen
 gen: $(HTMLS)
 	genblog src dst
 
-go:
+tool:
 	cd $(GOPATH)/src/github.com/xiaq/genblog; go generate; go get
-
-go-gen: go gen
 
 publish: gen
 	rsync -av --delete ./dst/ xiaqsdo:xiaq.me/
 
 clean:
-	rm $(ALL_HTMLS)
+	rm $(GENERATED_HTMLS)
 	rm -r dst
 
-.PHONY: gen go go-gen publish clean
+.PHONY: default gen tool publish clean
