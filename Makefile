@@ -16,7 +16,7 @@ go:
 go-gen: go gen
 
 publish: gen
-	rsync -av ./dst/ xiaqsdo:blog/
+	rsync -av --delete ./dst/ xiaqsdo:xiaq.me/
 
 clean:
 	rm $(ALL_HTMLS)

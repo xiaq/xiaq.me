@@ -1,4 +1,14 @@
 [[articles]]
-name = "manual-tiling-wm"
-title = "手动平铺式窗口管理器"
-timestamp = "2015-01-22"
+name = "soc2015"
+title = "Summer of Code!"
+timestamp = "2015-03-04"
+
+[[articles]]
+name = "lexer-must-die"
+title = "Lexer 必须死"
+timestamp = "2015-03-07"
+
+#[[articles]]
+#name = "back-to-future"
+#title = "回到未来：再访 Smalltalk"
+#timestamp = "2015-03-05"
